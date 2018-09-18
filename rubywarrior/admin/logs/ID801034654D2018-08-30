@@ -1,0 +1,1302 @@
+Script started on Thu 30 Aug 2018 02:13:14 PM UTC
+Welcome to Ruby Warrior
+No rubywarrior directory found, would you like to create one? [yn] ^[[C^[[C        y
+[1] beginner
+[2] intermediate
+Choose tower by typing the number: 1
+Enter a name for your warrior: Yates h the Great
+First level has been generated. See the rubywarrior/yates-the-great-beginner/README for instructions.
+
+Script done on Thu 30 Aug 2018 02:15:14 PM UTC
+Script started on Thu 30 Aug 2018 02:25:08 PM UTC
+Welcome to Ruby Warrior
+[1] Yates the Great - beginner - level 1 - score 0
+[2] New Profile
+Choose profile by typing the number: 1
+Starting Level 1
+- turn 1 -
+ --------
+|@      >|
+ --------
+Yates the Great walks forward
+- turn 2 -
+ --------
+| @     >|
+ --------
+Yates the Great walks forward
+- turn 3 -
+ --------
+|  @    >|
+ --------
+Yates the Great walks forward
+- turn 4 -
+ --------
+|   @   >|
+ --------
+Yates the Great walks forward
+- turn 5 -
+ --------
+|    @  >|
+ --------
+Yates the Great walks forward
+- turn 6 -
+ --------
+|     @ >|
+ --------
+Yates the Great walks forward
+- turn 7 -
+ --------
+|      @>|
+ --------
+Yates the Great walks forward
+Success! You have found the stairs.
+Level Score: 0
+Time Bonus: 8
+Clear Bonus: 2
+Total Score: 10
+Would you like to continue on to the next level? [yn] y
+See the updated README in the rubywarrior/yates-the-great-beginner directory.
+
+Script done on Thu 30 Aug 2018 02:28:40 PM UTC
+Script started on Thu 30 Aug 2018 02:31:06 PM UTC
+Welcome to Ruby Warrior
+[1] Yates the Great - beginner - level 2 - score 10
+[2] New Profile
+Choose profile by typing the number: 1
+Starting Level 2
+- turn 1 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 2 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 3 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 4 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 5 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 6 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 7 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 8 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 9 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 10 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 11 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 12 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 13 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 14 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 15 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 16 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 17 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 18 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 19 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 20 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 21 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 22 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 23 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 24 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 25 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 26 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 27 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 28 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 29 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 30 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 31 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 32 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 33 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 34 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 35 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 36 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 37 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 38 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 39 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 40 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 41 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 42 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 43 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 44 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 45 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 46 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 47 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 48 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 49 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 50 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 51 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 52 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 53 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 54 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 55 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 56 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 57 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 58 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 59 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 60 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 61 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 62 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 63 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 64 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 65 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 66 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 67 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 68 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 69 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 70 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 71 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 72 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 73 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 74 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 75 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 76 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 77 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 78 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 79 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 80 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 81 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 82 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 83 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 84 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 85 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 86 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+- turn 87 -
+ --------
+|@   s  >|
+ --------
+Yates the Great attacks forward and hits nothing
+^C/usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/ui.rb:10:in `sleep': Interrupt
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/ui.rb:10:in `puts_with_delay'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/units/base.rb:52:in `say'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/abilities/attack.rb:20:in `perform'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/units/base.rb:82:in `perform_turn'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/units/warrior.rb:55:in `perform_turn'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/level.rb:55:in `block (2 levels) in play'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/level.rb:55:in `each'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/level.rb:55:in `block in play'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/level.rb:50:in `times'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/level.rb:50:in `play'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/game.rb:72:in `play_current_level'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/game.rb:63:in `play_normal_mode'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/game.rb:23:in `start'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/runner.rb:17:in `run'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/bin/rubywarrior:5:in `<top (required)>'
+	from /usr/local/rvm/gems/ruby-2.4.1/bin/rubywarrior:23:in `load'
+	from /usr/local/rvm/gems/ruby-2.4.1/bin/rubywarrior:23:in `<main>'
+	from /usr/local/rvm/gems/ruby-2.4.1/bin/ruby_executable_hooks:24:in `eval'
+	from /usr/local/rvm/gems/ruby-2.4.1/bin/ruby_executable_hooks:24:in `<main>'
+
+Script done on Thu 30 Aug 2018 02:32:02 PM UTC
+Script started on Thu 30 Aug 2018 02:33:34 PM UTC
+Welcome to Ruby Warrior
+[1] Yates the Great - beginner - level 2 - score 10
+[2] New Profile
+Choose profile by typing the number: 1
+Starting Level 2
+- turn 1 -
+ --------
+|@   s  >|
+ --------
+(eval):2:in `attack!': Only one action can be performed per turn. (RuntimeError)
+	from /home/ec2-user/environment/rubywarrior/rubywarrior/yates-the-great-beginner/player.rb:5:in `play_turn'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/units/warrior.rb:13:in `play_turn'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/units/base.rb:72:in `prepare_turn'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/level.rb:54:in `block (2 levels) in play'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/level.rb:54:in `each'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/level.rb:54:in `block in play'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/level.rb:50:in `times'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/level.rb:50:in `play'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/game.rb:72:in `play_current_level'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/game.rb:63:in `play_normal_mode'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/game.rb:23:in `start'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/runner.rb:17:in `run'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/bin/rubywarrior:5:in `<top (required)>'
+	from /usr/local/rvm/gems/ruby-2.4.1/bin/rubywarrior:23:in `load'
+	from /usr/local/rvm/gems/ruby-2.4.1/bin/rubywarrior:23:in `<main>'
+	from /usr/local/rvm/gems/ruby-2.4.1/bin/ruby_executable_hooks:24:in `eval'
+	from /usr/local/rvm/gems/ruby-2.4.1/bin/ruby_executable_hooks:24:in `<main>'
+
+Script done on Thu 30 Aug 2018 02:33:37 PM UTC
+Script started on Thu 30 Aug 2018 02:35:04 PM UTC
+Welcome to Ruby Warrior
+[1] Yates the Great - beginner - level 2 - score 10
+[2] New Profile
+Choose profile by typing the number: 1
+Starting Level 2
+- turn 1 -
+ --------
+|@   s  >|
+ --------
+Yates the Great walks forward
+- turn 2 -
+ --------
+| @  s  >|
+ --------
+Yates the Great walks forward
+- turn 3 -
+ --------
+|  @ s  >|
+ --------
+Yates the Great walks forward
+- turn 4 -
+ --------
+|   @s  >|
+ --------
+Yates the Great walks forward
+Yates the Great bumps into Sludge
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 17 health power left
+- turn 5 -
+ --------
+|   @s  >|
+ --------
+Yates the Great walks forward
+Yates the Great bumps into Sludge
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 14 health power left
+- turn 6 -
+ --------
+|   @s  >|
+ --------
+Yates the Great walks forward
+Yates the Great bumps into Sludge
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 11 health power left
+- turn 7 -
+ --------
+|   @s  >|
+ --------
+Yates the Great walks forward
+Yates the Great bumps into Sludge
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 8 health power left
+- turn 8 -
+ --------
+|   @s  >|
+ --------
+Yates the Great walks forward
+Yates the Great bumps into Sludge
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 5 health power left
+- turn 9 -
+ --------
+|   @s  >|
+ --------
+Yates the Great walks forward
+Yates the Great bumps into Sludge
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 2 health power left
+- turn 10 -
+ --------
+|   @s  >|
+ --------
+Yates the Great walks forward
+Yates the Great bumps into Sludge
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, -1 health power left
+Yates the Great dies
+Sorry, you failed level 2. Change your script and try again.
+Would you like to read the additional clues for this level? [yn] n
+
+Script done on Thu 30 Aug 2018 02:35:35 PM UTC
+Script started on Thu 30 Aug 2018 02:37:21 PM UTC
+Welcome to Ruby Warrior
+[1] Yates the Great - beginner - level 2 - score 10
+[2] New Profile
+Choose profile by typing the number: 1
+Starting Level 2
+- turn 1 -
+ --------
+|@   s  >|
+ --------
+Yates the Great walks forward
+- turn 2 -
+ --------
+| @  s  >|
+ --------
+Yates the Great walks forward
+- turn 3 -
+ --------
+|  @ s  >|
+ --------
+Yates the Great walks forward
+- turn 4 -
+ --------
+|   @s  >|
+ --------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 7 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 17 health power left
+- turn 5 -
+ --------
+|   @s  >|
+ --------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 2 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 14 health power left
+- turn 6 -
+ --------
+|   @s  >|
+ --------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, -3 health power left
+Sludge dies
+Yates the Great earns 12 points
+- turn 7 -
+ --------
+|   @   >|
+ --------
+Yates the Great walks forward
+- turn 8 -
+ --------
+|    @  >|
+ --------
+Yates the Great walks forward
+- turn 9 -
+ --------
+|     @ >|
+ --------
+Yates the Great walks forward
+- turn 10 -
+ --------
+|      @>|
+ --------
+Yates the Great walks forward
+Success! You have found the stairs.
+Level Score: 12
+Time Bonus: 10
+Clear Bonus: 4
+Total Score: 10 + 26 = 36
+Would you like to continue on to the next level? [yn] y
+See the updated README in the rubywarrior/yates-the-great-beginner directory.
+
+Script done on Thu 30 Aug 2018 02:38:06 PM UTC
+Script started on Thu 30 Aug 2018 03:18:14 PM UTC
+Welcome to Ruby Warrior
+[1] Yates the Great - beginner - level 3 - score 36
+[2] New Profile
+Choose profile by typing the number: 1
+Starting Level 3
+- turn 1 -
+ ---------
+|@ s ss s>|
+ ---------
+Yates the Great walks forward
+- turn 2 -
+ ---------
+| @s ss s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 7 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 17 health power left
+- turn 3 -
+ ---------
+| @s ss s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 2 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 14 health power left
+- turn 4 -
+ ---------
+| @s ss s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, -3 health power left
+Sludge dies
+Yates the Great earns 12 points
+- turn 5 -
+ ---------
+| @  ss s>|
+ ---------
+Yates the Great walks forward
+- turn 6 -
+ ---------
+|  @ ss s>|
+ ---------
+Yates the Great walks forward
+- turn 7 -
+ ---------
+|   @ss s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 7 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 11 health power left
+- turn 8 -
+ ---------
+|   @ss s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 2 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 8 health power left
+- turn 9 -
+ ---------
+|   @ss s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, -3 health power left
+Sludge dies
+Yates the Great earns 12 points
+- turn 10 -
+ ---------
+|   @ s s>|
+ ---------
+Yates the Great receives 2 health from resting, up to 10 health
+- turn 11 -
+ ---------
+|   @ s s>|
+ ---------
+Yates the Great receives 2 health from resting, up to 12 health
+- turn 12 -
+ ---------
+|   @ s s>|
+ ---------
+Yates the Great walks forward
+- turn 13 -
+ ---------
+|    @s s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 7 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 9 health power left
+- turn 14 -
+ ---------
+|    @s s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 2 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 6 health power left
+- turn 15 -
+ ---------
+|    @s s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, -3 health power left
+Sludge dies
+Yates the Great earns 12 points
+- turn 16 -
+ ---------
+|    @  s>|
+ ---------
+Yates the Great receives 2 health from resting, up to 8 health
+- turn 17 -
+ ---------
+|    @  s>|
+ ---------
+Yates the Great receives 2 health from resting, up to 10 health
+- turn 18 -
+ ---------
+|    @  s>|
+ ---------
+Yates the Great receives 2 health from resting, up to 12 health
+- turn 19 -
+ ---------
+|    @  s>|
+ ---------
+Yates the Great walks forward
+- turn 20 -
+ ---------
+|     @ s>|
+ ---------
+Yates the Great walks forward
+- turn 21 -
+ ---------
+|      @s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 7 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 9 health power left
+- turn 22 -
+ ---------
+|      @s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 2 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 6 health power left
+- turn 23 -
+ ---------
+|      @s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, -3 health power left
+Sludge dies
+Yates the Great earns 12 points
+- turn 24 -
+ ---------
+|      @ >|
+ ---------
+Yates the Great receives 2 health from resting, up to 8 health
+- turn 25 -
+ ---------
+|      @ >|
+ ---------
+Yates the Great receives 2 health from resting, up to 10 health
+- turn 26 -
+ ---------
+|      @ >|
+ ---------
+Yates the Great receives 2 health from resting, up to 12 health
+- turn 27 -
+ ---------
+|      @ >|
+ ---------
+Yates the Great walks forward
+- turn 28 -
+ ---------
+|       @>|
+ ---------
+Yates the Great walks forward
+Success! You have found the stairs.
+Level Score: 48
+Time Bonus: 7
+Clear Bonus: 11
+Total Score: 36 + 66 = 102
+Would you like to continue on to the next level? [yn] 
+Broadcast message from root@ip-172-31-28-108
+	(unknown) at 15:21 ...
+
+The system is going down for halt in 30 minutes!
+ruby    
+Staying on current level. Try to earn more points next time.
+
+Script done on Thu 30 Aug 2018 03:22:52 PM UTC
+Script started on Thu 30 Aug 2018 03:23:13 PM UTC
+Welcome to Ruby Warrior
+[1] Yates the Great - beginner - level 3 - score 36
+[2] New Profile
+Choose profile by typing the number: 1
+Starting Level 3
+- turn 1 -
+ ---------
+|@ s ss s>|
+ ---------
+Yates the Great walks forward
+- turn 2 -
+ ---------
+| @s ss s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 7 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 17 health power left
+- turn 3 -
+ ---------
+| @s ss s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 2 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 14 health power left
+- turn 4 -
+ ---------
+| @s ss s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, -3 health power left
+Sludge dies
+Yates the Great earns 12 points
+- turn 5 -
+ ---------
+| @  ss s>|
+ ---------
+Yates the Great receives 2 health from resting, up to 16 health
+- turn 6 -
+ ---------
+| @  ss s>|
+ ---------
+Yates the Great receives 2 health from resting, up to 18 health
+- turn 7 -
+ ---------
+| @  ss s>|
+ ---------
+Yates the Great receives 2 health from resting, up to 20 health
+- turn 8 -
+ ---------
+| @  ss s>|
+ ---------
+Yates the Great walks forward
+- turn 9 -
+ ---------
+|  @ ss s>|
+ ---------
+Yates the Great walks forward
+- turn 10 -
+ ---------
+|   @ss s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 7 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 17 health power left
+- turn 11 -
+ ---------
+|   @ss s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 2 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 14 health power left
+- turn 12 -
+ ---------
+|   @ss s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, -3 health power left
+Sludge dies
+Yates the Great earns 12 points
+- turn 13 -
+ ---------
+|   @ s s>|
+ ---------
+Yates the Great receives 2 health from resting, up to 16 health
+- turn 14 -
+ ---------
+|   @ s s>|
+ ---------
+Yates the Great receives 2 health from resting, up to 18 health
+- turn 15 -
+ ---------
+|   @ s s>|
+ ---------
+Yates the Great receives 2 health from resting, up to 20 health
+- turn 16 -
+ ---------
+|   @ s s>|
+ ---------
+Yates the Great walks forward
+- turn 17 -
+ ---------
+|    @s s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 7 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 17 health power left
+- turn 18 -
+ ---------
+|    @s s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 2 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 14 health power left
+- turn 19 -
+ ---------
+|    @s s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, -3 health power left
+Sludge dies
+Yates the Great earns 12 points
+- turn 20 -
+ ---------
+|    @  s>|
+ ---------
+Yates the Great receives 2 health from resting, up to 16 health
+- turn 21 -
+ ---------
+|    @  s>|
+ ---------
+Yates the Great receives 2 health from resting, up to 18 health
+- turn 22 -
+ ---------
+|    @  s>|
+ ---------
+Yates the Great receives 2 health from resting, up to 20 health
+- turn 23 -
+ ---------
+|    @  s>|
+ ---------
+Yates the Great walks forward
+- turn 24 -
+ ---------
+|     @ s>|
+ ---------
+Yates the Great walks forward
+- turn 25 -
+ ---------
+|      @s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 7 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 17 health power left
+- turn 26 -
+ ---------
+|      @s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 2 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 14 health power left
+- turn 27 -
+ ---------
+|      @s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, -3 health power left
+Sludge dies
+Yates the Great earns 12 points
+- turn 28 -
+ ---------
+|      @ >|
+ ---------
+Yates the Great receives 2 health from resting, up to 16 health
+- turn 29 -
+ ---------
+|      @ >|
+ ---------
+Yates the Great receives 2 health from resting, up to 18 health
+- turn 30 -
+ ---------
+|      @ >|
+ ---------
+Yates the Great receives 2 health from resting, up to 20 health
+- turn 31 -
+ ---------
+|      @ >|
+ ---------
+Yates the Great walks forward
+- turn 32 -
+ ---------
+|       @>|
+ ---------
+Yates the Great walks forward
+Success! You have found the stairs.
+Level Score: 48
+Time Bonus: 3
+Clear Bonus: 10
+Total Score: 36 + 61 = 97
+Would you like to continue on to the next level? [yn] n
+Staying on current level. Try to earn more points next time.
+
+Script done on Thu 30 Aug 2018 03:24:21 PM UTC
+Script started on Thu 30 Aug 2018 03:24:29 PM UTC
+Welcome to Ruby Warrior
+[1] Yates the Great - beginner - level 3 - score 36
+[2] New Profile
+Choose profile by typing the number: 1
+Starting Level 3
+- turn 1 -
+ ---------
+|@ s ss s>|
+ ---------
+Yates the Great walks forward
+- turn 2 -
+ ---------
+| @s ss s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 7 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 17 health power left
+- turn 3 -
+ ---------
+| @s ss s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 2 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 14 health power left
+- turn 4 -
+ ---------
+| @s ss s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, -3 health power left
+Sludge dies
+Yates the Great earns 12 points
+- turn 5 -
+ ---------
+| @  ss s>|
+ ---------
+Yates the Great walks forward
+- turn 6 -
+ ---------
+|  @ ss s>|
+ ---------
+Yates the Great walks forward
+- turn 7 -
+ ---------
+|   @ss s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 7 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 11 health power left
+- turn 8 -
+ ---------
+|   @ss s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 2 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 8 health power left
+- turn 9 -
+ ---------
+|   @ss s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, -3 health power left
+Sludge dies
+Yates the Great earns 12 points
+- turn 10 -
+ ---------
+|   @ s s>|
+ ---------
+Yates the Great receives 2 health from resting, up to 10 health
+- turn 11 -
+ ---------
+|   @ s s>|
+ ---------
+Yates the Great walks forward
+- turn 12 -
+ ---------
+|    @s s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 7 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 7 health power left
+- turn 13 -
+ ---------
+|    @s s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 2 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 4 health power left
+- turn 14 -
+ ---------
+|    @s s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, -3 health power left
+Sludge dies
+Yates the Great earns 12 points
+- turn 15 -
+ ---------
+|    @  s>|
+ ---------
+Yates the Great receives 2 health from resting, up to 6 health
+- turn 16 -
+ ---------
+|    @  s>|
+ ---------
+Yates the Great receives 2 health from resting, up to 8 health
+- turn 17 -
+ ---------
+|    @  s>|
+ ---------
+Yates the Great receives 2 health from resting, up to 10 health
+- turn 18 -
+ ---------
+|    @  s>|
+ ---------
+Yates the Great walks forward
+- turn 19 -
+ ---------
+|     @ s>|
+ ---------
+Yates the Great walks forward
+- turn 20 -
+ ---------
+|      @s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 7 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 7 health power left
+- turn 21 -
+ ---------
+|      @s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, 2 health power left
+Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 4 health power left
+- turn 22 -
+ ---------
+|      @s>|
+ ---------
+Yates the Great attacks forward and hits Sludge
+Sludge takes 5 damage, -3 health power left
+Sludge dies
+Yates the Great earns 12 points
+- turn 23 -
+ ---------
+|      @ >|
+ ---------
+Yates the Great receives 2 health from resting, up to 6 health
+- turn 24 -
+ ---------
+|      @ >|
+ ---------
+Yates the Great receives 2 health from resting, up to 8 health
+- turn 25 -
+ ---------
+|      @ >|
+ ---------
+Yates the Great receives 2 health from resting, up to 10 health
+- turn 26 -
+ ---------
+|      @ >|
+ ---------
+Yates the Great walks forward
+- turn 27 -
+ ---------
+|       @>|
+ ---------
+Yates the Great walks forward
+Success! You have found the stairs.
+Level Score: 48
+Time Bonus: 8
+Clear Bonus: 11
+Total Score: 36 + 67 = 103
+Would you like to continue on to the next level? [yn] y
+See the updated README in the rubywarrior/yates-the-great-beginner directory.
+
+Script done on Thu 30 Aug 2018 03:25:23 PM UTC

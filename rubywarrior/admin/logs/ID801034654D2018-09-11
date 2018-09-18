@@ -1,0 +1,181 @@
+Script started on Tue 11 Sep 2018 02:04:16 PM UTC
+Welcome to Ruby Warrior
+[1] Yates the Great - beginner - level 4 - score 103
+[2] New Profile
+Choose profile by typing the number: 1
+/home/ec2-user/environment/rubywarrior/rubywarrior/yates-the-great-beginner/player.rb:2:in `<class:Player>': undefined local variable or method `warrior' for Player:Class (NameError)
+	from /home/ec2-user/environment/rubywarrior/rubywarrior/yates-the-great-beginner/player.rb:1:in `<top (required)>'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/level.rb:40:in `load'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/level.rb:40:in `load_player'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/game.rb:70:in `play_current_level'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/game.rb:63:in `play_normal_mode'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/game.rb:23:in `start'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/runner.rb:17:in `run'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/bin/rubywarrior:5:in `<top (required)>'
+	from /usr/local/rvm/gems/ruby-2.4.1/bin/rubywarrior:23:in `load'
+	from /usr/local/rvm/gems/ruby-2.4.1/bin/rubywarrior:23:in `<main>'
+	from /usr/local/rvm/gems/ruby-2.4.1/bin/ruby_executable_hooks:24:in `eval'
+	from /usr/local/rvm/gems/ruby-2.4.1/bin/ruby_executable_hooks:24:in `<main>'
+
+Script done on Tue 11 Sep 2018 02:04:20 PM UTC
+Script started on Tue 11 Sep 2018 02:05:41 PM UTC
+Welcome to Ruby Warrior
+[1] Yates the Great - beginner - level 4 - score 103
+[2] New Profile
+Choose profile by typing the number: 1
+Starting Level 4
+- turn 1 -
+ -------
+|@ Sa S>|
+ -------
+/home/ec2-user/environment/rubywarrior/rubywarrior/yates-the-great-beginner/player.rb:5:in `play_turn': undefined method `<' for nil:NilClass (NoMethodError)
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/units/warrior.rb:13:in `play_turn'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/units/base.rb:72:in `prepare_turn'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/level.rb:54:in `block (2 levels) in play'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/level.rb:54:in `each'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/level.rb:54:in `block in play'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/level.rb:50:in `times'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/level.rb:50:in `play'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/game.rb:72:in `play_current_level'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/game.rb:63:in `play_normal_mode'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/game.rb:23:in `start'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/runner.rb:17:in `run'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/bin/rubywarrior:5:in `<top (required)>'
+	from /usr/local/rvm/gems/ruby-2.4.1/bin/rubywarrior:23:in `load'
+	from /usr/local/rvm/gems/ruby-2.4.1/bin/rubywarrior:23:in `<main>'
+	from /usr/local/rvm/gems/ruby-2.4.1/bin/ruby_executable_hooks:24:in `eval'
+	from /usr/local/rvm/gems/ruby-2.4.1/bin/ruby_executable_hooks:24:in `<main>'
+
+Script done on Tue 11 Sep 2018 02:05:43 PM UTC
+Script started on Tue 11 Sep 2018 02:06:14 PM UTC
+1Welcome to Ruby Warrior
+[1] Yates the Great - beginner - level 4 - score 103
+[2] New Profile
+Choose profile by typing the number: 
+Starting Level 4
+- turn 1 -
+ -------
+|@ Sa S>|
+ -------
+Yates the Great walks forward
+- turn 2 -
+ -------
+| @Sa S>|
+ -------
+Yates the Great attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, 19 health power left
+Thick Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 17 health power left
+- turn 3 -
+ -------
+| @Sa S>|
+ -------
+Yates the Great attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, 14 health power left
+Thick Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 14 health power left
+- turn 4 -
+ -------
+| @Sa S>|
+ -------
+Yates the Great attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, 9 health power left
+Thick Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 11 health power left
+- turn 5 -
+ -------
+| @Sa S>|
+ -------
+Yates the Great attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, 4 health power left
+Thick Sludge attacks forward and hits Yates the Great
+Yates the Great takes 3 damage, 8 health power left
+- turn 6 -
+ -------
+| @Sa S>|
+ -------
+Yates the Great attacks forward and hits Thick Sludge
+Thick Sludge takes 5 damage, -1 health power left
+Thick Sludge dies
+Yates the Great earns 24 points
+- turn 7 -
+ -------
+| @ a S>|
+ -------
+Yates the Great receives 2 health from resting, up to 10 health
+Archer shoots forward and hits Yates the Great
+Yates the Great takes 3 damage, 7 health power left
+- turn 8 -
+ -------
+| @ a S>|
+ -------
+Yates the Great receives 2 health from resting, up to 9 health
+Archer shoots forward and hits Yates the Great
+Yates the Great takes 3 damage, 6 health power left
+- turn 9 -
+ -------
+| @ a S>|
+ -------
+Yates the Great receives 2 health from resting, up to 8 health
+Archer shoots forward and hits Yates the Great
+Yates the Great takes 3 damage, 5 health power left
+- turn 10 -
+ -------
+| @ a S>|
+ -------
+Yates the Great receives 2 health from resting, up to 7 health
+Archer shoots forward and hits Yates the Great
+Yates the Great takes 3 damage, 4 health power left
+- turn 11 -
+ -------
+| @ a S>|
+ -------
+Yates the Great receives 2 health from resting, up to 6 health
+Archer shoots forward and hits Yates the Great
+Yates the Great takes 3 damage, 3 health power left
+- turn 12 -
+ -------
+| @ a S>|
+ -------
+Yates the Great receives 2 health from resting, up to 5 health
+Archer shoots forward and hits Yates the Great
+Yates the Great takes 3 damage, 2 health power left
+- turn 13 -
+ -------
+| @ a S>|
+ -------
+Yates the Great receives 2 health from resting, up to 4 health
+Archer shoots forward and hits Yates the Great
+Yates the Great takes 3 damage, 1 health power left
+- turn 14 -
+ -------
+| @ a S>|
+ -------
+Yates the Great receives 2 health from resting, up to 3 health
+Archer shoots forward and hits Yates the Great
+Yates the Great takes 3 damage, 0 health power left
+Yates the Great dies
+Sorry, you failed level 4. Change your script and try again.
+Would you like to read the additional clues for this level? [yn] n
+
+Script done on Tue 11 Sep 2018 02:08:33 PM UTC
+Script started on Tue 11 Sep 2018 02:08:38 PM UTC
+Welcome to Ruby Warrior
+[1] Yates the Great - beginner - level 4 - score 103
+[2] New Profile
+Choose profile by typing the number: 1
+/home/ec2-user/environment/rubywarrior/rubywarrior/yates-the-great-beginner/player.rb:2:in `<class:Player>': undefined local variable or method `warrior' for Player:Class (NameError)
+	from /home/ec2-user/environment/rubywarrior/rubywarrior/yates-the-great-beginner/player.rb:1:in `<top (required)>'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/level.rb:40:in `load'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/level.rb:40:in `load_player'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/game.rb:70:in `play_current_level'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/game.rb:63:in `play_normal_mode'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/game.rb:23:in `start'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/lib/ruby_warrior/runner.rb:17:in `run'
+	from /usr/local/rvm/gems/ruby-2.4.1/gems/rubywarrior-0.1.3/bin/rubywarrior:5:in `<top (required)>'
+	from /usr/local/rvm/gems/ruby-2.4.1/bin/rubywarrior:23:in `load'
+	from /usr/local/rvm/gems/ruby-2.4.1/bin/rubywarrior:23:in `<main>'
+	from /usr/local/rvm/gems/ruby-2.4.1/bin/ruby_executable_hooks:24:in `eval'
+	from /usr/local/rvm/gems/ruby-2.4.1/bin/ruby_executable_hooks:24:in `<main>'
+
+Script done on Tue 11 Sep 2018 02:08:39 PM UTC
